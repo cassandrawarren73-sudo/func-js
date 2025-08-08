@@ -7,8 +7,8 @@ describe('func-js', () => {
 
     const compilerVersionExpected = {
         funcVersion: "0.4.6",
-        funcFiftLibCommitDate: "2025-06-12 08:41:35 +0300",
-        funcFiftLibCommitHash: "72056a2261cbb11f7cf0f20b389bcbffe018b1a8",
+        funcFiftLibCommitDate: "2025-07-25 14:16:50 +0300",
+        funcFiftLibCommitHash: "273663701cb202dc7fbed5fc437f26947919c26f",
     };
 
     it('should return compiler version', async () => {
